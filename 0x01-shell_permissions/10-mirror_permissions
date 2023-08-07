@@ -1,4 +1,2 @@
 #!/bin/bash
-hello_mode = os.stat(hello).st_mode
-os.chmod(olleh", hello_mode)
-Mode of helloset to match olleh`smode,")
+chmod --reference=olleh hello
